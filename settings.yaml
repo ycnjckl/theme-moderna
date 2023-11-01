@@ -611,8 +611,8 @@ spec:
               name: btn_url
               label: 跳转地址
               value: ""       
-    - group: service
-      label: 服务
+    - group: service1
+      label: 服务1
       formSchema:
         - $formkit: radio
           help: 这个主要是用服务那个自定义模版下面的配置注意啦
